@@ -4,6 +4,7 @@ from openpyxl import load_workbook
 from openpyxl.styles import Alignment, NamedStyle
 from openpyxl.utils.dataframe import dataframe_to_rows
 
+
 # Caminho do arquivo original e do arquivo de saída
 input_file = r"C:\Users\gustavo.telles\Desktop\Case Itaú\case_estagio.xlsx"
 output_file = r"C:\Users\gustavo.telles\Desktop\Case Itaú\case_estagio_limpo.xlsx"
