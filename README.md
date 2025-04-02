@@ -1,7 +1,7 @@
 ### Olá eu sou o Gustavo Dutra 👋
 
 - 🔭 Hoje trabalho como Business Analytics 
-- 🌱 Estudando SQL -- Python -- Data Analytics 🎲
+- 🌱 Estudando SQL -- Python -- Java-- Data Analytics 🎲
 
 
 ### My stats ⭐
@@ -30,5 +30,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.s
   <a href = "mailto:gusdutratelles469@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-dutra-29b285292/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
 
